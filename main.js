@@ -51,5 +51,3 @@ if (tempoFinal>0){
         return "PRAZO FINALIZADO";
     }
     }
-
-return dias+" dias "+ horas+" horas "+minutos+" minutos "+segundos+" segundos ";}
