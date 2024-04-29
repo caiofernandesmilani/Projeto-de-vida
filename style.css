@@ -5,11 +5,11 @@
     --botao-inativo: rgba(2, 11, 97, 0.7);
     --botao-ativo :#0ab3bf;
     --branco:#ffffff;
-    --cor-letra: #ca1561;
-    --sublinhado:#f62cca;
+    --cor-letra: #0d3e97;
+    --sublinhado:#170492;
 }
 body{
-    background-color: black;
+    background-color: rgb(7, 35, 244);
     color: var(--branco);
     font-family: 'Chakra Petch', sans-serif; 
 }
